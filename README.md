@@ -33,7 +33,6 @@ lighthouse_access_log_name: lighthouse_access
 Dependencies
 ------------
 
-Требуется роль [clickhouse-role](https://github.com/AlekseyDrobnyi/clickhouse-role)
 
 Example Playbook
 ----------------
